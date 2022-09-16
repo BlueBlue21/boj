@@ -1,4 +1,4 @@
-// 1008 - Done!
+// Done!
 
 const fs = require("fs");
 
