@@ -15,4 +15,4 @@ for (let i = 0; i < a.length; i++) {
     );
 }
 
-console.log(strings.toString().replace(/,/g, ""));
+console.log(strings.join(""));
